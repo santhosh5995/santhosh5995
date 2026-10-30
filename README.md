@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-Data Scientist with **4+ years of experience** building and deploying machine learning models, predictive analytics systems, and AI-driven applications. I specialize in turning complex business problems into scalable data science solutions — across supply chain, cybersecurity, and enterprise domains.
+Software Engineer with **4+ years of experience** building and deploying machine learning models, predictive analytics systems, and AI-driven applications. I specialize in turning complex business problems into scalable data science solutions — across supply chain, cybersecurity, and enterprise domains.
 
 - 🔭 Currently working at **INSOFT Solutions** as a Data Scientist
 - 🎓 MS in Information Systems & Technology — **University of Missouri St. Louis**
